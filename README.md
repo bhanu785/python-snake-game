@@ -28,4 +28,4 @@ A winter-themed version of the classic Snake game, created in Python with Pygame
 - loops are also used
 
 ## Other info
-This was made in January of 2025.  I didn't do this myself since I am a beginner.  I used a two hour long video from YouTube and I expanded my knowledge on python concepts and the use of libraries.  Graphics aren't the best had to take screenshots and alter the images which made them blurry.  UPDATE REQUIRED: I will add comments to explain the code soon.  
+This was made in January of 2025.  I didn't do this myself since I am a beginner.  I used a two hour long video from YouTube and I expanded my knowledge on python concepts and the use of libraries.  Graphics aren't the best had to take screenshots and alter the images which made them blurry.  I used the VS code editor to make this game. UPDATE REQUIRED: I will add comments to explain the code soon.  
