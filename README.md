@@ -1,1 +1,1 @@
-# python-snake-game
+First ever game made from python by myself.  Code obviously not made by myself used a 2 hour long youtube video for all of it.  Expanded knowledge of python and functions.  Made for school hackathon and won first place.  No comments made yet will make in future.  
