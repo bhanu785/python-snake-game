@@ -1,6 +1,6 @@
 ## Winter Snake Game
 
-A winter-themed version of the classic Snake game, created in Python with Pygame for a holiday hackathon. Includes all characteristics of normal snake game but with snowflakes and the snake is a snowman.
+A winter-themed version of the classic Snake game, created in Python with Pygame for a holiday hackathon. Includes all characteristics of normal snake game but the apples are snowflakes and the snake is a snowman.
 
 (Tied)First Place Winner at High School Hackathon
 
@@ -28,4 +28,4 @@ A winter-themed version of the classic Snake game, created in Python with Pygame
 - loops are also used
 
 ## Other info
-This was made in January of 2025.  I didn't do this myself since I am a beginner.  I used a two hour long video from YouTube and I expanded my knowledge on python concepts and the use of libraries.  UPDATE REQUIRED: I will add comments to explain the code soon.  
+This was made in January of 2025.  I didn't do this myself since I am a beginner.  I used a two hour long video from YouTube and I expanded my knowledge on python concepts and the use of libraries.  Graphics aren't the best had to take screenshots and alter the images which made them blurry.  UPDATE REQUIRED: I will add comments to explain the code soon.  
