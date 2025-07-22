@@ -8,11 +8,6 @@ A winter-themed version of the classic Snake game, created in Python with Pygame
 - Python
 - Pygame
 
-## How to Run
-1. Install Python 3
-2. Run `pip install pygame`
-3. Run `python snake_game.py`
-
 ## Functions
 - score displayed at the bottom
 - grid similar to that of the actual snake game
